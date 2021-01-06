@@ -1,0 +1,7 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\project x0\project x0\bin\Debug\project x0.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\project x0\project x0\bin\Debug\project x0.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\project x0\project x0\obj\x86\Debug\project_x0.Form1.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\project x0\project x0\obj\x86\Debug\project_x0.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\project x0\project x0\obj\x86\Debug\project x0.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2010\Projects\project x0\project x0\obj\x86\Debug\project x0.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\project x0\project x0\obj\x86\Debug\project x0.pdb
